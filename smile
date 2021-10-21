@@ -1,0 +1,3 @@
+a="uma"
+b="devi"
+print(a+b)
